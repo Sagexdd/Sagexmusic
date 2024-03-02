@@ -4,7 +4,7 @@ from AloneXMusic import app
 from config import BOT_USERNAME
 
 start_txt = """
-✪ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ sᴀɢᴇ ʀᴇᴘᴏ ✪
+✪ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ sʏɴᴀxxx ʀᴇᴘᴏ ✪
  
  ➲ ᴀʟʟ ʀᴇᴘᴏ ᴇᴀsɪʟʏ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴇʀʀᴏʀ ✰
  
@@ -26,18 +26,18 @@ async def start(_, msg):
           InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/sagebotsupport"),
-          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/unfav_sage"),
+          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/sagebotxsupports"),
+          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/synaxxx"),
           ],
                [
-                InlineKeyboardButton("𝗦𝗔𝗚𝗘 𝗡𝗘𝗧𝗪𝗢𝗥𝗞", url=f"https://t.me/sagebotsupport"),
+                InlineKeyboardButton("𝗦𝗔𝗚𝗘 𝗡𝗘𝗧𝗪𝗢𝗥𝗞", url=f"https://github.com/Sagexdd"),
 
 ],
              [
               InlineKeyboardButton("𝗩2 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/Sagexdd/Sagexmusic"),
               ],
               [
-InlineKeyboardButton("𝗩2 𝗠𝗔𝗡𝗔𝗚𝗘𝗠𝗘𝗡𝗧", url=f"https://github.com/Sagexdd/Sagexmusic"),
+InlineKeyboardButton("𝗚𝗥𝗢𝗨𝗣 𝗛𝗘𝗟𝗣𝗕𝗢𝗧", url=f"https://github.com/Sagexdd/Sagexrobot"),
 ],
 
 
