@@ -37,7 +37,7 @@ async def start(_, msg):
               InlineKeyboardButton("𝗩2 𝗠𝗨𝗦𝗜𝗖", url=f"https://github.com/Sagexdd/Sagexmusic"),
               ],
               [
-InlineKeyboardButton("𝗚𝗥𝗢𝗨𝗣 𝗛𝗘𝗟𝗣𝗕𝗢𝗧", url=f"https://github.com/Sagexdd/Sagexrobot"),
+InlineKeyboardButton("𝗚𝗥𝗢𝗨𝗣 𝗛𝗘𝗟𝗣𝗕𝗢𝗧", url=f"https://github.com/Sagexdd/SagexRobot"),
 ],
 
 
