@@ -69,9 +69,9 @@ def stream_markup_timer(_, chat_id, played, dur):
                  [
             InlineKeyboardButton(
 
-                text="👻𝐓ɢ_𝐆ᴏᴅ💪🏻",
+                text="🦋ᴛɢ_ǫᴜᴇᴇɴ🍁",
 
-                url=f"t.me/synaxxx",
+                url=f"t.me/the_girl_moon",
 
             ),
             InlineKeyboardButton(
@@ -99,9 +99,9 @@ def stream_markup(_, chat_id):
                  [
             InlineKeyboardButton(
 
-                text="👻𝐓ɢ_𝐆ᴏᴅ💪🏻",
+                text="🦋ᴛɢ_ǫᴜᴇᴇɴ🍁",
 
-                url=f"t.me/synaxxx",
+                url=f"t.me/the_girl_moon",
 
             ),
             InlineKeyboardButton(
